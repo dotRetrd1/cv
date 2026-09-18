@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.9.14)  18 SEP 2026 16:14
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.9.14)  18 SEP 2026 16:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -567,17 +567,7 @@ Overfull \hbox (3.0033pt too wide) in paragraph at lines 53--54
 
 [1
 
-] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 188--189
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 188--189
-[][]
- []
-
-[3] [4] (cv.aux)
+] [2] [3] [4] (cv.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
