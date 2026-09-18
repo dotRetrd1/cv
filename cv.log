@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.9.14)  18 SEP 2026 15:27
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.9.14)  18 SEP 2026 16:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -559,9 +559,25 @@ Package hyperref Info: Link coloring OFF on input line 16.
 LaTeX Font Warning: Font shape `TU/David(0)/m/it' undefined
 (Font)              using `TU/David(0)/m/n' instead on input line 32.
 
+
+Overfull \hbox (3.0033pt too wide) in paragraph at lines 53--54
+[][]\TU/David(0)/m/n/10.95 תכנון מערכת לגידול צמחים אוטומטית בסביבה מבוקרת הכול
+לת מערכת הידרופונית, ניטור ושליטה על הסביבה[]
+ []
+
 [1
 
-] [2] [3] [4] (cv.aux)
+] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
+[][]
+ []
+
+[3] [4] (cv.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -576,7 +592,7 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 Here is how much of TeX's memory you used:
  14265 strings out of 402986
  302753 string characters out of 5452850
- 773526 words of memory out of 5000000
+ 774526 words of memory out of 5000000
  42816 multiletter control sequences out of 15000+600000
  628337 words of font info for 73 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
